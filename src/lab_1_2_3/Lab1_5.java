@@ -1,3 +1,5 @@
+package lab_1_2_3;
+
 public class Lab1_5 {
     int result;
 
